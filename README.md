@@ -1,3 +1,3 @@
 # Supervised-learning
-linear and non-linear regressions,
+linear, non-linear regressions and classification
 my first mini-projects
